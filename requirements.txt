@@ -1,0 +1,7 @@
+openai
+python-dotenv
+azure-search-documents
+azure-cosmos
+azure-storage-blob
+streamlit
+pypdf
