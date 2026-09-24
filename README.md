@@ -1,4 +1,4 @@
-# Employee Assist
+# Quick Employee Assist
 
 An enterprise-style Employee Assist application built using
 Retrieval-Augmented Generation (RAG) and Azure services.
